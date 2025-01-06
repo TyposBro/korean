@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "c0653e2cf543530a",
+    "type": "split",
+    "children": [
+      {
+        "id": "eec74a94c526e314",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "096156bc90ea7da4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d346a8389902a0a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5186e4d1f14c3af2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dd675fec793af8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "16bef52215a8a6d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bb24ca8c753fff05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5
+  },
+  "right": {
+    "id": "c6367e3d88489549",
+    "type": "split",
+    "children": [
+      {
+        "id": "82e7f46dbc4795ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e08dbef1d1ee18c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "19c63b56b077560c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5229af0300d149b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eb83679d67b0d8b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ba76d213a59f5a3c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "e0c675ae37669660",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e473f3471a1f2cde",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-map-view:Open map view": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "096156bc90ea7da4",
+  "lastOpenFiles": [
+    "서울대 한국어/Level 1/B/1B-L2.md",
+    "서울대 한국어/Level 1/B/1B-L3.md",
+    "서울대 한국어/Level 1/B/1B-L4.md",
+    "서울대 한국어/Level 1/B/1B-L5.md",
+    "서울대 한국어/Level 1/B/1B-L6.md",
+    "서울대 한국어/Level 1/B/1B-L7.md",
+    "서울대 한국어/Level 1/B/1B-L8.md",
+    "README.md",
+    "서울대 한국어/Level 1/A/1A-L2.md",
+    "Credits, Obsidian Setup Tutorials.md",
+    "서울대 한국어/Level 1/A/1A-L1.md",
+    "TOPIK1.md",
+    "ChatGPT, LLM instructions.md",
+    "서울대 한국어/Level 6/B",
+    "서울대 한국어/Level 6/A",
+    "서울대 한국어/Level 5/B",
+    "서울대 한국어/Level 5/A",
+    "서울대 한국어/Level 4/B",
+    "서울대 한국어/Level 4/A",
+    "서울대 한국어/Level 3/B",
+    "서울대 한국어/Level 3/A",
+    "서울대 한국어/Level 2/B",
+    "서울대 한국어/Level 2/A",
+    "서울대 한국어/Level 1/Untitled.md",
+    "서울대 한국어/Level 1/A/1A-L0.md",
+    "서울대 한국어/Level 1/A/1A-L6.md",
+    "서울대 한국어/Level 1/A/1A-L5.md",
+    "서울대 한국어/Level 1/A/1A-L4.md",
+    "서울대 한국어/Level 1/A/1A-L3.md",
+    "🇰🇷 Korean.md",
+    "Welcome.md",
+    "🧑‍💻 Job/🧑‍💻 Job.md",
+    "🕋 Islam/🕋 Islam.md",
+    "💻 Coding/Projects/Projects.md",
+    "💻 Coding/Projects/Muslim Habit Tracker.md",
+    "💻 Coding/Projects/IID Lab.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
