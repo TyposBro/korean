@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eec74a94c526e314",
+        "id": "3407a85936b7da3a",
         "type": "tabs",
         "children": [
           {
-            "id": "096156bc90ea7da4",
+            "id": "70d4b9e47039f244",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -183,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 385.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdf4be6399ae3c73",
+  "active": "70d4b9e47039f244",
   "lastOpenFiles": [
     "서울대 한국어/Level 1/B/1B-L2.md",
     "서울대 한국어/Level 1/B/1B-L3.md",
