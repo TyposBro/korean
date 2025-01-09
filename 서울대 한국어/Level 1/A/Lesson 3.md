@@ -1,11 +1,8 @@
 ---
-tags:
-  - 1a
-  - korean
-  - topik
-  - topik1
-  - 1a-lesson3
+tags: []
 ---
+#flashcards/korean/topik/level_1/1A/lesson_3
+
 ---
 
 ~={green}자다=~ /jada/

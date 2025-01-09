@@ -1,11 +1,8 @@
 ---
-tags:
-  - korean
-  - topik
-  - topik1
-  - 1a
-  - 1a-lesson5
+tags: []
 ---
+#flashcards/korean/topik/level_1/1A/lesson_5
+
 ---
 
 ~={green}숫자=~ /sujja/

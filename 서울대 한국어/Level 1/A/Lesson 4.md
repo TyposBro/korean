@@ -1,11 +1,8 @@
 ---
-tags:
-  - korean
-  - topik
-  - topik1
-  - 1a
-  - 1a-lesson4
+tags: []
 ---
+#flashcards/korean/topik/level_1/1A/lesson_4
+
 ---
 ~={green}공항=~ /gonghang/
 - **공항**에 도착하다

@@ -1,14 +1,7 @@
 {
   "settings": {
     "flashcardTags": [
-      "#1a-lesson1",
-      "#1a-lesson2",
-      "#1a-lesson3",
-      "#1a-lesson4",
-      "#1a-lesson5",
-      "#1a-lesson6",
-      "#1a-lesson7",
-      "#1a-lesson8"
+      "#flashcards"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
@@ -40,7 +33,7 @@
     "maxNDaysNotesReviewQueue": 365,
     "showRibbonIcon": true,
     "showStatusBar": true,
-    "initiallyExpandAllSubdecksInTree": false,
+    "initiallyExpandAllSubdecksInTree": true,
     "showContextInCards": true,
     "showIntervalInReviewButtons": true,
     "flashcardHeightPercentage": 80,

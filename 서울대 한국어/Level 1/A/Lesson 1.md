@@ -1,11 +1,8 @@
 ---
-tags:
-  - korean
-  - topik
-  - topik1
-  - 1a
-  - 1a-lesson1
+tags: []
 ---
+#flashcards/korean/topik/level_1/1A/lesson_1
+
 ---
 
 ~={green}나라=~
