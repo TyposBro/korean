@@ -1,8 +1,7 @@
 ---
-tags: []
+tags:
+  - flashcards/korean/topik/level_1/1A/lesson_07
 ---
-#flashcards/korean/topik/level_1/1A/lesson_7
-
 ---
 
 ~={green}흐리다=~ /heurida/

@@ -1,8 +1,7 @@
 ---
-tags: []
+tags:
+  - flashcards/korean/topik/level_1/1A/lesson_08
 ---
-#flashcards/korean/topik/level_1/1A/lesson_8
-
 ---
 
 ~={green}골프=~ /golf/

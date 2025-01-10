@@ -1,8 +1,7 @@
 ---
-tags: []
+tags:
+  - flashcards/korean/topik/level_1/1A/lesson_05
 ---
-#flashcards/korean/topik/level_1/1A/lesson_5
-
 ---
 
 ~={green}숫자=~ /sujja/

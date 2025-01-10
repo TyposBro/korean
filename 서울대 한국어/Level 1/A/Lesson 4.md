@@ -1,8 +1,7 @@
 ---
-tags: []
+tags:
+  - flashcards/korean/topik/level_1/1A/lesson_04
 ---
-#flashcards/korean/topik/level_1/1A/lesson_4
-
 ---
 
 ~={green}공항=~ /gonghang/

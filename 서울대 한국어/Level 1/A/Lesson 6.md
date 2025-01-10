@@ -1,8 +1,7 @@
 ---
-tags: []
+tags:
+  - flashcards/korean/topik/level_1/1A/lesson_06
 ---
-#flashcards/korean/topik/level_1/1A/lesson_6
-
 ---
 
 ~={green}샌드위치=~ /saendeuwityi/

@@ -1,8 +1,7 @@
 ---
-tags: []
+tags:
+  - flashcards/korean/topik/level_1/1A/lesson_02
 ---
-#flashcards/korean/topik/level_1/1A/lesson_2
-
 ---
 
 ~={green}책상=~
