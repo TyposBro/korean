@@ -21,13 +21,43 @@ I want you to translate korean words into english in this flashcards format with
 
 format:
 ```
-~={green}숫자=~ /sujja/
-- **숫자**를 세다
-- 전화번호의 **숫자**
-??  
-~={magenta}number=~
-- count the **numbers**
-- the **numbers** in a phone number
+---
+
+~={green}소=~
+/so-/
+- 소 닭 보듯
+- 소 다섯 마리
+- 소를 잡다
+??
+~={magenta}Cow=~
+- like a cow sees a chicken
+- five cows
+- catch a cow
+
+---
+
+~={green}오=~
+/o-/
+- 오손가락
+- 오 시
+??
+~={magenta}Five=~
+- five fingers
+- five o'clock
+
+---
+
+~={green}이=~ 
+/i-/ 
+- 이물건 
+- 이가 아파요 
+- 이것
+??
+~={magenta}This/Tooth=~ 
+- this item
+- my tooth hurts
+- this thing
+
 ```
 
 now translate (e.g. 샌드위치)

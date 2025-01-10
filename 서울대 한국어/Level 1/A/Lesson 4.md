@@ -4,6 +4,7 @@ tags: []
 #flashcards/korean/topik/level_1/1A/lesson_4
 
 ---
+
 ~={green}공항=~ /gonghang/
 - **공항**에 도착하다
 - 비행기를 타기 위해 **공항**에 가다
