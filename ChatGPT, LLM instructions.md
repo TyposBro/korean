@@ -14,3 +14,20 @@
 
 
 Other LLMs like [Perplexity](www.perplexity.ai) and [Phind](https://www.phind.com/) do it automatically and include search results with images
+
+
+### Vocabulary generation instructions
+I want you to translate korean words into english in this flashcards format with correct spelling, spacing, translation and examples for begginer learners
+
+format:
+```
+~={green}숫자=~ /sujja/
+- **숫자**를 세다
+- 전화번호의 **숫자**
+??  
+~={magenta}number=~
+- count the **numbers**
+- the **numbers** in a phone number
+```
+
+now translate (e.g. 샌드위치)

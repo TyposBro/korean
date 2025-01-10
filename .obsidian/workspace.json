@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4cce076931f11d79",
+        "id": "3ecc695c783b8687",
         "type": "tabs",
         "children": [
           {
-            "id": "e2124f3c50765e4e",
+            "id": "c20295a909773fad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "서울대 한국어/Level 1/A/Lesson 8.md",
+                "file": "ChatGPT, LLM instructions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 8"
+              "title": "ChatGPT, LLM instructions"
             }
           }
         ],
@@ -188,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 382.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,29 +204,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4dd675fec793af8e",
+  "active": "bdf4be6399ae3c73",
   "lastOpenFiles": [
+    "서울대 한국어/Level 1/A/Lesson 8.md",
+    "서울대 한국어/Level 1/B/1B-L9.md",
+    "서울대 한국어/Level 1/B/1B-L16.md",
+    "서울대 한국어/Level 1/B/1B-L15.md",
+    "서울대 한국어/Level 1/B/1B-L14.md",
+    "서울대 한국어/Level 1/B/1B-L13.md",
+    "서울대 한국어/Level 1/B/1B-L12.md",
+    "서울대 한국어/Level 1/B/1B-L11.md",
+    "서울대 한국어/Level 1/B/1B-L10.md",
     "서울대 한국어/Level 1/A/Lesson 7.md",
     "서울대 한국어/Level 1/A/Lesson 6.md",
     "서울대 한국어/Level 1/A/Lesson 5.md",
+    "TOPIK1.md",
+    "README.md",
+    "Credits, Obsidian Setup Tutorials.md",
+    "ChatGPT, LLM instructions.md",
+    "2025-01-09.md",
+    "Untitled.canvas",
+    "서울대 한국어/Level 1/A/Lesson 0.md",
     "서울대 한국어/Level 1/A/Lesson 4.md",
     "서울대 한국어/Level 1/A/Lesson 3.md",
     "서울대 한국어/Level 1/A/Lesson 2.md",
     "서울대 한국어/Level 1/A/Lesson 1.md",
-    "서울대 한국어/Level 1/A/Lesson 0.md",
-    "서울대 한국어/Level 1/A/Lesson 8.md",
-    "서울대 한국어/Level 1/B/1B-L1.md",
-    "서울대 한국어/Level 1/B/1B-L2.md",
-    "서울대 한국어/Level 1/B/1B-L3.md",
-    "서울대 한국어/Level 1/B/1B-L4.md",
-    "서울대 한국어/Level 1/B/1B-L5.md",
-    "서울대 한국어/Level 1/B/1B-L6.md",
-    "서울대 한국어/Level 1/B/1B-L7.md",
-    "서울대 한국어/Level 1/B/1B-L8.md",
-    "README.md",
-    "Credits, Obsidian Setup Tutorials.md",
-    "TOPIK1.md",
-    "ChatGPT, LLM instructions.md",
     "서울대 한국어/Level 6/B",
     "서울대 한국어/Level 6/A",
     "서울대 한국어/Level 5/B",
@@ -240,9 +242,6 @@
     "서울대 한국어/Level 1/Untitled.md",
     "🇰🇷 Korean.md",
     "Welcome.md",
-    "🧑‍💻 Job/🧑‍💻 Job.md",
-    "🕋 Islam/🕋 Islam.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Untitled 1.canvas"
   ]
 }
