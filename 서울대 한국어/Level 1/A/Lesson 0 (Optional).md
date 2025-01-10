@@ -1,7 +1,7 @@
 ---
 tags: []
 ---
-#flashcards/korean/topik/level_1/1A/lesson_0
+#flashcards/korean/topik/level_1/1A/lesson_0 
 
 ---
 
