@@ -198,7 +198,7 @@ tags:
 - 주말에 **찜질방에 가다**
 - 휴식을 위해 **찜질방에 가다**
 ??
-~={magenta}go to a sauna (jjimjilbang)=~
+~={magenta}go to a sauna=~
 - **go to a sauna** on the weekend
 - **go to a sauna** for relaxation
 
