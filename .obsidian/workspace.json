@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "63f1c2d090ebecca",
+        "id": "da4cb6f2939458bd",
         "type": "tabs",
         "children": [
           {
-            "id": "c0f45dbf21deab70",
+            "id": "8eddf2ae75ccef21",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -200,12 +200,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0f45dbf21deab70",
+  "active": "8eddf2ae75ccef21",
   "lastOpenFiles": [
-    "서울대 한국어/Level 1/A/Lesson 8.md",
-    "서울대 한국어/Level 2/B/2B-L14.md",
     "서울대 한국어/Level 1/B/1B-L16.md",
     "서울대 한국어/Level 1/B/1B-L15.md",
+    "서울대 한국어/Level 1/A/Lesson 8.md",
+    "서울대 한국어/Level 2/B/2B-L14.md",
     "서울대 한국어/Level 1/B/1B-L14.md",
     "서울대 한국어/Level 2/B/2B-L17.md",
     "서울대 한국어/Level 2/B/2B-L16.md",

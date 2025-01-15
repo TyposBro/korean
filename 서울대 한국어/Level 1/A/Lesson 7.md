@@ -15,11 +15,11 @@ tags:
 ---
 
 ~={green}맑다=~ /makda/
-- 하늘이 **맑다**
+- 오늘 하늘이 정말 **맑아요**
 - **맑은** 물
 ??
 ~={magenta}clear=~
-- The sky is **clear**
+- The sky is really **clear** today
 - **Clear** water
 
 ---
